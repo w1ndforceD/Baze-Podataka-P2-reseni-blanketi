@@ -5,7 +5,7 @@ Cilj je da kroz kratke primere pokažem rad sa bazom iz C# aplikacije: konekcija
 ---
 
 ## Tehnologije
-- **C# / .NET** (Console ili WinForms/WPF – zavisi od foldera)
+- **C# / .NET** (Console)
 - **ADO.NET** (`SqlConnection`, `SqlCommand`, `SqlDataReader`, `SqlDataAdapter`, `DataSet`)
 - **SQL Server** (ili druga baza ako je prilagođeno u connection stringu)
 
