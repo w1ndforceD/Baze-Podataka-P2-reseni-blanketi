@@ -20,3 +20,5 @@ Cilj je da kroz kratke primere pokažem rad sa bazom iz C# aplikacije: konekcija
 - `06-DataAdapter-DataSet/` – rad preko `SqlDataAdapter` i `DataSet`
 - `db/` – SQL skripte (kreiranje tabela, test podaci)
 
+## Autor
+GitHub: [@w1ndforceD](https://github.com/w1ndforceD)
