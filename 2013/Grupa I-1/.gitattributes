@@ -1,0 +1,4 @@
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+*.cs linguist-detectable=true
+*.cs linguist-language=C#
