@@ -34,7 +34,7 @@ Sadrži:
 
 ---
 
-### 📁 `Primeri/` (opciono)
+### 📁 `Primeri/` 
 Kratki primeri i demo kod za učenje ADO.NET koncepta:
 - `01-Connection/` – konekcija + test ping prema bazi
 - `02-Select-Reader/` – SELECT preko `SqlDataReader`
