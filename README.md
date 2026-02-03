@@ -1,24 +1,90 @@
-# Baze-Podataka-P2-reseni-blanketi
-Repo sadrži zadatke i primere za **2. kolokvijum iz Baza podataka** (tema: **ADO.NET**).  
-Cilj je da kroz kratke primere pokažem rad sa bazom iz C# aplikacije: konekcija, upiti, parametri, transakcije, prikaz podataka i osnovni CRUD.
+# Baze Podataka – P2 (ADO.NET)
+
+Ovaj repozitorijum sadrži **zadatke, testove i rešenja sa prethodnih godina** iz predmeta **Baze podataka** – **2. kolokvijum (ADO.NET)**.  
+Materijal je organizovan po **godinama** i **ispitnim grupama**, sa pripadajućim C# rešenjima.
+
+Repo je namenjen za:
+- vežbanje za **2. kolokvijum i ispite**
+- razumevanje **ADO.NET tehnologije**
+- poređenje različitih tipova zadataka po godinama
 
 ---
 
-## Tehnologije
-- **C# / .NET** (Console)
-- **ADO.NET** (`SqlConnection`, `SqlCommand`, `SqlDataReader`, `SqlDataAdapter`, `DataSet`)
-- **SQL Server** (ili druga baza ako je prilagođeno u connection stringu)
+## Struktura repozitorijuma
+
+### 📁 `2013/`
+Zadaci i rešenja iz 2013. godine.
+
+Sadrži:
+- `Grupa I-1/` – zadaci i rešenja za grupu I-1
+- `Grupa III-1/` – zadaci i rešenja za grupu III-1
+
+👉 Svaki folder sadrži **PDF sa zadatkom** i **C# projekat sa rešenjem**
 
 ---
 
-## Šta ima u repou
+### 📁 `2014/`
+Zadaci i rešenja iz 2014. godine.
+
+Sadrži:
+- `Grupa I-1/` – zadaci i rešenja za grupu I-1
+- `Grupa I-2/` – zadaci i rešenja za grupu I-2
+
+👉 Kompletna rešenja sa ADO.NET implementacijom
+
+---
+
+### 📁 `Primeri/` (opciono)
+Kratki primeri i demo kod za učenje ADO.NET koncepta:
 - `01-Connection/` – konekcija + test ping prema bazi
 - `02-Select-Reader/` – SELECT preko `SqlDataReader`
 - `03-ParameterizedQueries/` – parametri (bez SQL injection)
 - `04-CRUD/` – INSERT / UPDATE / DELETE
 - `05-Transactions/` – transakcije (commit/rollback)
 - `06-DataAdapter-DataSet/` – rad preko `SqlDataAdapter` i `DataSet`
-- `db/` – SQL skripte (kreiranje tabela, test podaci)
+
+---
+
+## Tehnologije
+
+- **C# / .NET** (Console/WinForms)
+- **ADO.NET** (`SqlConnection`, `SqlCommand`, `SqlDataReader`, `SqlDataAdapter`, `DataSet`)
+- **SQL Server** (ili druga baza ako je prilagođeno u connection stringu)
+
+---
+
+## Tipovi zadataka koji se pojavljuju
+
+- Konekcija na bazu podataka
+- Izvršavanje SELECT upita (`SqlDataReader`)
+- Parametrizovani upiti (zaštita od SQL injection)
+- CRUD operacije (INSERT, UPDATE, DELETE)
+- Transakcije (commit/rollback)
+- Rad sa `DataSet` i `SqlDataAdapter`
+- Prikaz podataka u konzoli / GUI
+- Obrada grešaka (`try-catch`)
+
+---
+
+## Kako koristiti repo
+
+1. Otvori PDF sa zadatkom iz odgovarajuće godine
+2. Pokušaj sam da napišeš C# kod sa ADO.NET
+3. Uporedi sa rešenjem u folderu
+4. Testiraj kod u Visual Studio
+5. Prilagodi connection string za svoju bazu
+
+---
+
+## Napomena
+
+- Rešenja su pisana u **ispitnom stilu** (jasno, bez nepotrebnih komplikacija)
+- Connection stringovi mogu biti potrebni za prilagođavanje
+- Repo služi isključivo za **učenje i pripremu ispita**
+
+---
 
 ## Autor
-GitHub: [@w1ndforceD](https://github.com/w1ndforceD)
+
+GitHub: [@w1ndforceD](https://github.com/w1ndforceD)  
+Baze podataka – priprema 2. kolokvijuma (ADO.NET)
