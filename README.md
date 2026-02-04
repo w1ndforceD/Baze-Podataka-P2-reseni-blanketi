@@ -34,6 +34,16 @@ Sadrži:
 
 ---
 
+### 📁 `RandomGodina/`
+Zadaci i rešenja iz 2014. godine.
+
+Sadrži:
+- `RandomGrupa/` – zadaci i rešenja 
+
+👉 Kompletna rešenja sa ADO.NET implementacijom
+
+---
+
 ### 📁 `Primeri/` 
 Kratki primeri i demo kod za učenje ADO.NET koncepta:
 - `01-Connection/` – konekcija + test ping prema bazi
