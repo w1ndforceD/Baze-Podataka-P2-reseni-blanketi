@@ -34,8 +34,19 @@ Sadrži:
 
 ---
 
-### 📁 `RandomGodina/`
+
+### 📁 `2024/`
 Zadaci i rešenja iz 2014. godine.
+
+Sadrži:
+- `RandomGrupa/` – zadaci i rešenja za tu grupu
+
+👉 Kompletna rešenja sa ADO.NET implementacijom
+
+---
+
+### 📁 `RandomGodina/`
+Zadaci i rešenja.
 
 Sadrži:
 - `RandomGrupa/` – zadaci i rešenja 
