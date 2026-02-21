@@ -55,17 +55,6 @@ Sadrži:
 
 ---
 
-### 📁 `Primeri/` 
-Kratki primeri i demo kod za učenje ADO.NET koncepta:
-- `01-Connection/` – konekcija + test ping prema bazi
-- `02-Select-Reader/` – SELECT preko `SqlDataReader`
-- `03-ParameterizedQueries/` – parametri (bez SQL injection)
-- `04-CRUD/` – INSERT / UPDATE / DELETE
-- `05-Transactions/` – transakcije (commit/rollback)
-- `06-DataAdapter-DataSet/` – rad preko `SqlDataAdapter` i `DataSet`
-
----
-
 ## Tehnologije
 
 - **C# / .NET** (Console/WinForms)
