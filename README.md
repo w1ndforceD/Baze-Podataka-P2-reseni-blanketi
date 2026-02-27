@@ -57,9 +57,9 @@ Sadrži:
 
 ## Tehnologije
 
-- **C# / .NET** (Console/WinForms)
+- **C# / .NET** (Console)
 - **ADO.NET** (`SqlConnection`, `SqlCommand`, `SqlDataReader`, `SqlDataAdapter`, `DataSet`)
-- **SQL Server** (ili druga baza ako je prilagođeno u connection stringu)
+- **SQL Server** 
 
 ---
 
